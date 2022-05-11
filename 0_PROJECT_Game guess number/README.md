@@ -1,5 +1,5 @@
 # Проект 0. Угадай число
-[На Главную](https://github.com/9Folken/SKILLFACTORY_PROJECTS)
+[На Главную](https://github.com/9Folken/SKILLFACTORY_PROJECTS#проект)
 ## Оглавление  
 [1. Описание проекта](#Описание-проекта)  
 [2. Какой кейс решаем?](#Какой-кейс-решаем)  
