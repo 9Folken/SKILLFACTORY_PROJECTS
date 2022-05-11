@@ -22,9 +22,9 @@ def random_predict(number: int = 1) -> int:
         predict_number = np.random.randint(x, y)  # предполагаемое число
         if number > predict_number:
             x = predict_number
-        if number < predict_number:
+        elif number < predict_number:
             y = predict_number
-        if number == predict_number:
+        else:
             break  # выход из цикла если угадали
     return count
 
